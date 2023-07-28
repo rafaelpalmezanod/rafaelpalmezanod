@@ -13,7 +13,7 @@
 - 🔭 En estos momentos sigo  con mi aprendiendo rgemacion
 - 🌱 Actalmente estoy aprendindo MySQL
 - 💬 Ask me about **CSS** **Html** **JS** 
-- 📫 How to reach me: Rafaelandrespalmezanodi8@gmail.com
+- 📫 How to reach me: Rafaelandrespalmezanodias@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
